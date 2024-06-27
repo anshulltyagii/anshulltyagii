@@ -28,7 +28,7 @@
 - 📫 You can shoot me an email at **anshultyagi2608@gmail.com**
 
 - ⚡ Fun fact **I'm a keen learner and ambitious individual**
-- 📝 Checkout my [Resume](https://drive.google.com/file/d/1NV6Yur9C2orJBtJrjUehTmiqbFXyP13F/view)
+- 📝 Checkout my [Resume](https://drive.google.com/file/d/1CMFWiP3W52M0qCh2oEn8LeTVk3LUoqas/view?usp=sharing)
 
 <!-- - 🌱 Connect With Me <a href="https://avni-arora.vercel.app/"><img src="https://img.shields.io/badge/-AVNI ARORA-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
 
