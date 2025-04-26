@@ -9,13 +9,11 @@
 </h1>
 
 
-<h2 align="center">I'm a passionate Full Stack Web Developer from India.</h2>
+<h2 align="center">I'm a passionate Multi Stack Developer from India...</h2>
 
 <img align="right" alt="GIF" src="https://i.postimg.cc/FRYsjNKK/techstack.gif" width="300px" height="300px"/>
 
 ## 🙋‍♂️ About Me
-
-<!-- 🔭 I’m currently working on **[Avni project name](https://)** -->
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
@@ -28,9 +26,7 @@
 - 📫 You can shoot me an email at **anshultyagi2608@gmail.com**
 
 - ⚡ Fun fact **I'm a keen learner and ambitious individual**
-- 📝 Checkout my [Resume](https://drive.google.com/file/d/1CMFWiP3W52M0qCh2oEn8LeTVk3LUoqas/view?usp=sharing)
-
-<!-- - 🌱 Connect With Me <a href="https://avni-arora.vercel.app/"><img src="https://img.shields.io/badge/-AVNI ARORA-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
+- 📝 Checkout my [Resume](https://letsknowmoreaboutme.netlify.app/)
 
 ## 🚀 Languages and Tools:
 
@@ -49,23 +45,6 @@
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
-
-
-<p align="center">
-    <a href="https://github.com/anshulltyagii">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anshul Tyagi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anshulltyagii&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-<!-- ## 📊 My CP Stats
-<img align="center" src="https://cp-cards.herokuapp.com/?name=AVNI%20ARORA&codeforces=Avni.17" />
-  <br/>
-  <br/>
-
-<a href="https://github.com/anshulltyagii"><img alt="Anshul Tyagi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anshulltyagii&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
-
-<br/>
-<br/>
 
 ## Connect with me:
 <p align="left">
