@@ -26,7 +26,7 @@
 - 📫 You can shoot me an email at **anshultyagi2608@gmail.com**
 
 - ⚡ Fun fact **I'm a keen learner and ambitious individual**
-- 📝 Checkout my [Website](https://letsknowmoreaboutme.netlify.app/)
+- 📝 Checkout my [Website](https://anshulltyagii.github.io/Anshul-Tyagi/)
 
 ## Connect with me:
 <p align="left">
