@@ -13,13 +13,15 @@
 
 <img align="right" alt="GIF" src="https://i.postimg.cc/FRYsjNKK/techstack.gif" width="300px" height="300px"/>
 
-## 🙋‍♂️ About Me
+##  About Me
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
+- 
+- 🙋‍♂️ Java Full Stack developer at **Genpact India Pvt Ltd**
 
-- 🎓Final Year student at the **Jaypee Institue of Information Technology, Noida**
+- 🎓Graduated from **Jaypee Institue of Information Technology, Noida**
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio]()** -->
 
